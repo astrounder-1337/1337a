@@ -2,4 +2,4 @@
 
 <!--
 ---END
-Thank you amazon-q. Now what is the current directory?
+Thank you, now please which is my vscode current file?
